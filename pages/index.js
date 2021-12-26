@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
       <div className={styles.container}>
         <main className={styles.main}>
-          Welcome to Al-Amri family{'\''}s website
+          Elyas Al-Amri{'\''}s portfolio
         </main>
 
         <footer className={styles.footer}>
